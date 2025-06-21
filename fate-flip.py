@@ -30,7 +30,7 @@ if submitted:
 
         gif_slot = st.empty()
 
-        gif_slot.image("https://i.ibb.co/D8jGrY2/coin-flip.gif", caption="Flipping the coin...")  # you can replace with your own gif URL
+        gif_slot.image("https://i.ibb.co/VpjJ4fVB/ultimate-coin-flip-lucky-louie-flip.gif", caption="Flipping the coin...")  # you can replace with your own gif URL
         time.sleep(2.5)
 
         gif_slot.empty()
